@@ -31,8 +31,3 @@ I build lightweight frontend tools and browser-based experiments — focused on 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zack-Blade&layout=compact&theme=default&hide_border=true)
 
 ---
-
-## Contact
-
-Open to freelance work, collaborations, and feedback.  
-Reach me via GitHub issues or connect on [LinkedIn](#) ← *(add your link)*
